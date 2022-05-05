@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Billpleasetest</string>
+    <string name="amount">Amount</string>
+    <string name="number_of_pax">Number of pax</string>
+    <string name="no_svs">NO SVS</string>
+    <string name="svs">SVS</string>
+    <string name="no_gst">NO GST</string>
+    <string name="gst">GST</string>
+    <string name="discount">Discount (%)</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">PayNow</string>
+    <string name="split">SPLIT</string>
+    <string name="reset">RESET</string>
+    <string name="enter_discount_percentage">Enter discount percentage</string>
+    <string name="enter_total_bill_amount">Enter total bill amount</string>
+    <string name="number_diners">Enter Number of Diners (incling yourself)</string>
+</resources>
