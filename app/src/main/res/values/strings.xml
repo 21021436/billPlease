@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Billpleasetest</string>
+    <string name="app_name">Bill Please</string>
     <string name="amount">Amount</string>
     <string name="number_of_pax">Number of pax</string>
     <string name="no_svs">NO SVS</string>
