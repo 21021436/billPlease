@@ -16,7 +16,8 @@
         android:id="@+id/amount"
         android:hint="@string/enter_total_bill_amount"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"/>
 
 
     <TextView
@@ -28,7 +29,8 @@
         android:id="@+id/numPax"
         android:hint="@string/number_diners"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:inputType="number"/>
 
     <LinearLayout
         android:orientation="horizontal"
@@ -63,7 +65,8 @@
         android:hint="@string/enter_discount_percentage"
         android:id="@+id/disc"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"/>
 
     <RadioGroup
         android:id="@+id/payMethodGroup"
