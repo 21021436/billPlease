@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
                 int checkPaymentRadioId = payMethodGroup.getCheckedRadioButtonId();
 
                 if (checkPaymentRadioId == R.id.payMethodPN) {
-                    payMethodString = " via PayNow to 912345678.";
+                    payMethodString = " via PayNow to 91234567.";
                 }
                 else {
                     payMethodString = " in cash.";
